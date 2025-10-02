@@ -21,18 +21,6 @@ npm run dev
 ```
 variables que rellenar al crear el archivo .env:
 
-PORT=3000
-
-FIREBASE_API_KEY=AIzaSyBl576SZTyJroUlz8-O_ljCMrZnx7MCWE4
-FIREBASE_AUTH_DOMAIN=proyecto-final-7e837.firebaseapp.com
-FIREBASE_PROJECT_ID=proyecto-final-7e837
-FIREBASE_STORAGE_BUCKET=proyecto-final-7e837.firebasestorage.app
-FIREBASE_MESSAGING_SENDER_ID=1062115677236
-FIREBASE_APP_ID=1:1062115677236:web:7681a9a50a98687f406661
-
-JWT_SECRET=NotSecretPassword
-```
-
 ## Documentación de la API
 
 ```formato de productos json
